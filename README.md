@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🙋🏼‍♀️, I'm Scarlat </h1>
-<h3 align="center">Engineer and web development student</h3>
+<h3 align="center">Back-end Developer</h3>
 
 ---
 
