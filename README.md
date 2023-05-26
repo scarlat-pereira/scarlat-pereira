@@ -8,6 +8,28 @@
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scarlatpereira/)
   <a href = "mailto:engcivil.scarlat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+---
+
+      - I currently study at Trybe
+      
+      - I’m learning Python and I have experience with:
+      
+      - JavaScript | TypeScript | Python | CSS | HTML
+      - Linux (Ubuntu) | Windows
+      - Node.js | Jest | RTL | React JS | Context API | Redux | Bootstrap
+      - Scrum | Kanban
+      - TDD | Clean Code | Conventional Commits
+      - Fetch API | Media Queries | Git | VSCode | Slack | Trello | Cypress
+      - Unit Tests;
+      - Docker;
+      - SQL | MySQL Worbench | MongoDB
+      - Express (HTTP com Node.js) | Middlewares
+      - Arquitetura de Software (MSC) | Sequelize
+      - API REST
+    
+
+---
+  
   
 ## 🌟 Languages and Tools
   
