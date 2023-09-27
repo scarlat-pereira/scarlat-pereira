@@ -10,13 +10,12 @@
   
 ---
 
-      - I currently study at Trybe
       
-      - I’m learning C# and I have experience with:
+      - I have experience with:
       
-      - JavaScript | TypeScript | Python | CSS | HTML
+      - JavaScript | TypeScript | CSS | HTML
       - Linux (Ubuntu) | Windows
-      - Node.js | Jest | RTL | React JS | Context API | Redux | Bootstrap
+      - Node.js | Jest | RTL | Context API
       - Scrum | Kanban
       - TDD | Clean Code | Conventional Commits
       - Fetch API | Media Queries | Git | VSCode | Slack | Trello | Cypress
@@ -43,8 +42,6 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ## 🌟 Back-end Technologies
 
