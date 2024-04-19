@@ -17,7 +17,7 @@
       - Linux (Ubuntu) | Windows
       - Node.js | Jest | RTL | Context API
       - Scrum | Kanban
-      - TDD | Clean Code | Conventional Commits
+      - Clean Code | Conventional Commits
       - Fetch API | Media Queries | Git | VSCode | Slack | Trello | Cypress
       - Unit Tests;
       - Docker;
